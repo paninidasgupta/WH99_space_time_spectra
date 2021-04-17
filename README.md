@@ -7,4 +7,5 @@ $'\frac{\sqrt{gh_e}}{\beta}(\frac{\omega^2}{gh_e}-k^2-\frac{k}{\omega}\beta)=2n+
  
 ![formula](https://render.githubusercontent.com/render/math?math=$\frac{\sqrt{gh_e}}{\beta}(\frac{\omega^2}{gh_e}-k^2-\frac{k}{\omega}\beta)=2n+1%20%20$)
 
+<img src="https://render.githubusercontent.com/render/math?math=$\frac{\sqrt{gh_e}}{\beta}(\frac{\omega^2}{gh_e}-k^2-\frac{k}{\omega}\beta)=2n+1%20%20$">
 

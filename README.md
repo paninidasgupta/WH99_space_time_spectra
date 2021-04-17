@@ -7,6 +7,6 @@ $'\frac{\sqrt{gh_e}}{\beta}(\frac{\omega^2}{gh_e}-k^2-\frac{k}{\omega}\beta)=2n+
  
 
     $$ 
-e^{i\pi} = -1     
-    $$
+frac{\sqrt{gh_e}}{\beta}(\frac{\omega^2}{gh_e}-k^2-\frac{k}{\omega}\beta)=2n+1   
+    
 
